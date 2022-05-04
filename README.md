@@ -1,2 +1,2 @@
 # BioNER-Cache
-Will be abaliable soon.
+Will be abaliable soon once paper is accepted.
