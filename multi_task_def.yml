@@ -1,0 +1,15 @@
+NLM-BC5CDR-chem-IOB:
+  data_format: Sequence
+  encoder_type: BERT
+  enable_san: False
+  labels:
+    - O
+    - B-Chemical
+    - I-Chemical
+    - X
+    - CLS
+    - SEP
+  metric_meta:
+    - SeqEval
+  n_class: 6
+  task_type: SequenceLabeling

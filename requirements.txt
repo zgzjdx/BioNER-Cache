@@ -1,0 +1,14 @@
+# python 3.6
+pytorch >= 1.5.0
+numpy
+transformers==3.5.1
+pytorch-pretrained-bert==v0.6.0
+tqdm
+pandas
+tokenizers==0.9.3
+scikit-learn
+scipy
+tabulate
+fairseq
+tensorboardX
+matplotlib
