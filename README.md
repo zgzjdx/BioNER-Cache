@@ -32,9 +32,6 @@ For the standard BERT model, please download at https://huggingface.co/bert-base
 3. String tokenize, ```python preprocess_std.py ```
 4. Model training, ```python multi_train.py```. For the details of related hyperparameters, please refer to ```opts.py```
 5. The ```run_example_withcahe.txt``` and ```run_example_withoutcahe.txt``` provide running commands for model training as reference.
-```python
-python run.py --mode train --split small --root ./data/ --pretrain data/bert-base-uncased/
-```
 
 ## Reference
 
